@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x310DEC96b4DaFd01bEDFF292033439Ea3a27037D",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x310DEC96b4DaFd01bEDFF292033439Ea3a27037D",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Twise",
+  "SYMBOL": "TWS",
+  "MAX_SUPPLY": 22,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/twise",
+  "SHOW_BACKGROUND": true
+}
